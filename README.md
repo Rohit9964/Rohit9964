@@ -59,34 +59,20 @@ I am actively preparing for roles as a:
 
 ---
 
-### 🧮 **5. Algo Visualization Tool (Java GUI)**  
-📌 **New — Added as requested**
+## 🧮 5. Algorithm Visualization
 
-An interactive tool to **visualize algorithms step-by-step**, helpful for learning and interviews.
+A simple interactive tool to visually understand how different algorithms work.
 
-**Highlights:**  
-- Visualizes sorting and searching algorithms  
-- Java Swing/JavaFX based GUI  
-- Real-time animations  
-- Great showcase of OOP + GUI programming  
+### **Features**
+- Visualizes common **sorting algorithms** (Bubble, Selection, Insertion, Merge, Quick, Heap)
+- Supports **searching algorithms** (Linear Search, Binary Search)
+- Step-by-step **animated visualization**
+- Built UI using **HTML,CSS,JS**
+- Clean modular **OOP-based** structure
 
-🔗 **Repo:** https://github.com/Rohit9964/Algo-visualization-
+### **Repository**
+🔗 https://github.com/Rohit9964/Algo-visualization-
 
----
-
-### 🗳️ **6. Online Voting System (Java + DBMS)**  
-📌 **New — Added as requested**
-
-A secure and structured **online voting application** demonstrating backend logic & data management.
-
-**Features:**  
-- Voter authentication  
-- Candidate registration  
-- Vote casting + validation  
-- Admin dashboard  
-
-Tech: Java • MySQL • JDBC • OOP  
-🔗 **Repo:** https://github.com/Rohit9964/Online_voting_system
 
 ---
 
