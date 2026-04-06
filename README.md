@@ -1,139 +1,97 @@
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm Rohit K H</h1>
-<h3 align="center">Data Analyst • Java Developer • Problem Solver</h3>
+<h1 align="center">Hi, I'm Rohit K H</h1>
+<h3 align="center">Java Developer • Problem Solver</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-## 🔥 About Me  
-I am a final-year **CSE student** passionate about **Data Analytics, Dashboards, and Java-based Software Development**.
+## About Me  
 
-I enjoy turning:
-- messy data → 📊 meaningful insights  
-- ideas → 💻 working applications  
-- problems → 🚀 practical solutions  
+I am a Computer Science student currently working as a Technical Consultant Intern at Connneqtion Group.
 
-I am actively preparing for roles as a:
-- **Data Analyst (SQL • Python • Power BI)**  
-- **Java Developer (Core Java • DSA • OOP • MySQL)**  
+I work with SQL and Oracle ERP systems, handling data extraction, query validation, and reporting workflows.  
+This experience has helped me understand how real-world enterprise systems and databases operate.
 
----
+Currently focused on:
+- Data Structures and Algorithms  
+- Core Java and OOP concepts  
+- Relational databases (Oracle SQL, MySQL)  
 
-## 🚀 Featured Projects  
-
-### 📊 **1. Sales Analysis Power BI Dashboard**
-- Analyzed **15K+ sales records** using SQL  
-- Identified **Delhi NCR as top region (₹521M revenue)**  
-- Created business insights, KPIs, DAX measures  
-🔗 **Repo:** https://github.com/Rohit9964/sales_dashboard
+I am looking for entry-level opportunities to grow as a software developer.
 
 ---
 
-### 📱 **2. Google Play Store EDA (Python)**
-- Cleaned dataset with **13.6% missing values handled**  
-- Found video apps get **200× higher downloads**  
-- Includes visual insights (Seaborn/Matplotlib)  
-🔗 **Repo:** https://github.com/Rohit9964/Google-Play-Store-App-Analysis
+## Experience  
+
+### Technical Consultant Intern — Connneqtion Group  
+Bangalore, India | 2026 – Present  
+
+- Worked with relational databases and SQL to support enterprise application reporting workflows  
+- Handled data extraction and reporting across Oracle ERP modules (Invoice, HCM, Inventory)  
+- Reviewed and understood existing SQL queries used in report generation  
+- Validated report outputs and resolved data inconsistencies  
+- Modified and optimized SQL queries to improve accuracy and performance  
+- Performed data validation and ensured consistency of outputs  
 
 ---
 
-### 🌌 **3. Astronomical Event Prediction (ML)**
-- 68% accuracy Random Forest model  
-- 8+ engineered features, 50K+ entries  
-🔗 **Repo:** https://github.com/Rohit9964/Astronomical_event_predictor-
+## Projects  
+
+### 1. Sales Analysis Dashboard  
+- Analyzed 15K+ records using SQL  
+- Identified key business insights and KPIs  
+- Built dashboard for data visualization  
+Repository: https://github.com/Rohit9964/sales_dashboard  
 
 ---
 
-### 💉 **4. Medical Inventory System (Java + MySQL)**
-- CRUD-based medical stock manager  
-- Java (OOP) + MySQL backend  
-- Clean, modular code  
-🔗 **Repo:** https://github.com/Rohit9964/Medical-Store-management
+### 2. Google Play Store Analysis  
+- Performed data cleaning and exploratory analysis using Python  
+- Handled missing values and generated insights  
+Repository: https://github.com/Rohit9964/Google-Play-Store-App-Analysis  
 
 ---
 
-## 🧮 5. Algorithm Visualization
-
-A simple interactive tool to visually understand how different algorithms work.
-
-### **Features**
-- Visualizes common **sorting algorithms** (Bubble, Selection, Insertion, Merge, Quick, Heap)
-- Supports **searching algorithms** (Linear Search, Binary Search)
-- Step-by-step **animated visualization**
-- Built UI using **HTML,CSS,JS**
-- Clean modular **OOP-based** structure
-
-### **Repository**
-🔗 https://github.com/Rohit9964/Algo-visualization-
-
+### 3. Astronomical Event Prediction  
+- Built a machine learning model using Random Forest  
+- Worked on feature engineering and prediction  
+Repository: https://github.com/Rohit9964/Astronomical_event_predictor-  
 
 ---
 
-## 🛠️ Tech Stack  
-
-### 🐍 Data & Python  
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-00326A?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
-
-### 📊 Data Analytics  
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-### ☕ Java Development  
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Swing-007396?style=for-the-badge"/>
-</p>
-
-### 🧰 Tools  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-</p>
-
+### 4. Medical Inventory System  
+- Developed a CRUD-based application using Java and MySQL  
+- Applied OOP concepts and database integration  
+Repository: https://github.com/Rohit9964/Medical-Store-management  
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit9964&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 📫 Connect With Me  
-📧 Email → **rohithonakhande2@gmail.com**  
-💼 LinkedIn → *https://www.linkedin.com/in/rohit-honakhande-083538259/*  
-🌐 Portfolio → *https://rkdaportfolio.netlify.app/*  
+### 5. Algorithm Visualization  
+- Built a tool to visualize sorting and searching algorithms  
+- Implemented using HTML, CSS, and JavaScript  
+Repository: https://github.com/Rohit9964/Algo-visualization-  
 
 ---
 
-### ⭐ “Code. Visualize. Analyze. Build. Repeat.”  
-Thank you for visiting! 😊
+## Technical Skills  
+
+Programming Languages: Python, Java  
+Databases: Oracle SQL, MySQL  
+Core Concepts: Data Structures, DBMS, Operating Systems, Computer Networks  
+Tools: Git, GitHub, Oracle SQL Developer, VS Code  
+
+
+## Contact  
+
+Email: rohithonakhande2@gmail.com  
+LinkedIn: https://www.linkedin.com/in/rohit-honakhande-083538259/  
+
+---
+
+Code. Build. Solve. Repeat.
